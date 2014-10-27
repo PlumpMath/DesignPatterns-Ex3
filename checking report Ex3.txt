@@ -1,0 +1,8 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 300726395 - Ortal Turgeman
+Second Student Details: 304826753 - Lior Asulin
+Delivery Date.........: 17.9.2014
+Delivered In Delay....: No
+Comments..............: None
+=======================End Exercise Checking Report=========================
